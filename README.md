@@ -2,7 +2,7 @@
 
 Sinusoidal Positional encodings are, famously, used in the Transformer models ([Vaswani, et al.](https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf)) to encode the positions of tokens in a sequence.
 
-There are parallels to be drawn from binary representation. Indeed, [this](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/) excellent post by Amirhossein Kazemnejad explains.
+There are parallels to be drawn from binary representation. Indeed, [this](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/) excellent post by Amirhossein Kazemnejad explains the connection brilliantly.
 
 This repository contains code to generate some simple visualizations of these encodings.
 
