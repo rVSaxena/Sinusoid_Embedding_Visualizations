@@ -6,10 +6,10 @@ There are parallels to be drawn from binary representation. Indeed, [this](https
 
 This repository contains code to generate some simple visualizations of these encodings.
 
-###For an information density of 500:
+### For an information density of 500:
 ![](position_embeddings_500.gif)
 
-###For an information density of 10000:
+### For an information density of 10000:
 ![](position_embeddings_10000.gif)
 
 Notice how changing reducing the information density shifts 'weight' to larger indices more quickly.
